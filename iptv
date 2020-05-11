@@ -47,29 +47,29 @@ http://cdn.samtv.ca/tvpunjab/index.m3u8
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="HINDI",Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/NDTV24x7.in.png" group-title="NEWS",NDTV 24X7
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/in/NDTV24x7.in.png" group-title="NEWS",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-logo="https://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" group-title="NEWS",CNBC 18
+#EXTINF:0 tvg-logo="https://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" group-title="NEWS",CNBC 18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="NEWS",CNBC Awaaz
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" group-title="NEWS",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rOrQj07.png" group-title="HINDI",ABP News
+#EXTINF:0 tvg-logo="https://i.imgur.com/rOrQj07.png" group-title="HINDI",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1613540835/2692806976_fd7ec89a46.png" group-title="HINDI",DD News
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1613540835/2692806976_fd7ec89a46.png" group-title="HINDI",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeNews.in.png" group-title="HINDI",Zee News
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/in/ZeeNews.in.png" group-title="HINDI",Zee News
 http://216.144.250.174/Zee_NeWs_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="Hindi",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.upcdirectrendeles.eu/upload_files/chanels/aphd.jpg" group-title="DOCUMENTARY",Animal Planet Hindi
+#EXTINF:0 tvg-logo="https://www.upcdirectrendeles.eu/upload_files/chanels/aphd.jpg" group-title="DOCUMENTARY",Animal Planet Hindi
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/359-3595110_b4u-movies-logo-b4u-movies-channel-logo.png" group-title="HINDI",B4U Movies 
+#EXTINF:0 tvg-logo="https://www.nicepng.com/png/detail/359-3595110_b4u-movies-logo-b4u-movies-channel-logo.png" group-title="HINDI",B4U Movies 
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/469387440990347264/9TRqEbUo_400x400.jpeg" group-title="HINDI",MAHA MOVIE
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/469387440990347264/9TRqEbUo_400x400.jpeg" group-title="HINDI",MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/ZeeClassic.in.png" group-title="HINDI",Zee Classic
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/in/ZeeClassic.in.png" group-title="HINDI",Zee Classic
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyMax.in.png" group-title="HINDI" ,Sony MaX HD
+#EXTINF:0 tvg-logo="https://static.iptv-epg.com/in/SonyMax.in.png" group-title="HINDI" ,Sony MaX HD
 http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
-#EXTINF:-1  tvg-name="WWE Network" tvg-id="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="SPORTS",WWE Network
+#EXTINF:0  tvg-name="WWE Network" tvg-id="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="SPORTS",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8

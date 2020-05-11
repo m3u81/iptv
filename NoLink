@@ -23,6 +23,8 @@ http://104.237.60.234/live/gabruutv.m3u8
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 #EXTINF:0, group-title="Punjabi",Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
+#EXTINF:0, group-title="Punjabi",ABP SANJHA
+https://abp-i.akamaihd.net/hls/live/765533/abpsanjha/masterhls_1564.m3u8
 #EXTINF:0, group-title="Punjabi",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1, group-title="Punjabi",Life Punjabi

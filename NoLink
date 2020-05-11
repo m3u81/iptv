@@ -35,6 +35,8 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",Punjabi Tadkaa
 http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:0, group-title="Punjabi",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 #EXTINF:0, group-title="Punjabi",Punjabi Zindabad
 http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="Punjabi",Sikh Channel USA

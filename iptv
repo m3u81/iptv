@@ -43,5 +43,5 @@ http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
-#EXTINF:0, group-title="Hindi",AAJTAK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="HINDI",Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8

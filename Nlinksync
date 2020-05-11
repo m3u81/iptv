@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:0, group-title="Punjabi",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Amar Ujala 
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Fastway Ent.
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Punjabi",Fastway TV
+http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Punjabi",Fateh TV Int.
+http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Gabruu TV
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:0, group-title="Punjabi",GDNS Ludhiana
+http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
+#EXTINF:0, group-title="Punjabi",Hamdard TV
+http://cdn.samtv.ca/hamdard/index.m3u8
+#EXTINF:0, group-title="News",ABP SANJHA
+https://abp-i.akamaihd.net/hls/live/765533/abpsanjha/masterhls_1564.m3u8
+#EXTINF:0, group-title="Punjabi",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1, group-title="Punjabi",Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:0, group-title="Punjabi",PTV Pardesi
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Punjab TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",Punjabi Tadkaa
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:0, group-title="Punjabi",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
+#EXTINF:0, group-title="Punjabi",Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:0, group-title="Punjabi",Sikh Channel USA
+http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
+#EXTINF:0, group-title="Punjabi",SSTV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Punjabi",Hulchul Tv
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:0, group-title="Punjabi",Pitaara
+http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8
+#EXTINF:0, group-title="Punjabi",PTC Punjabi Gold
+http://13.232.161.202:1935/goldIn/smil:Live.smil/chunklist_w1976498641_b1396000_sleng.m3u8
+#EXTINF:0, group-title="Punjabi",TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:0, group-title="Punjabi",TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:0, group-title="News",Times now
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+#EXTINF:0, group-title="News",Aaj Tak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:0, group-title="News",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:0, group-title="News",CNBC 18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:0, group-title="News",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:0, group-title="News",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:0, group-title="News",DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:0, group-title="News",India News
+https://streamidvo.multitvsolution.in/IndiaNewsPunjab-a/playlist.m3u8
+#EXTINF:0, group-title="News",Zee News
+http://216.144.250.174/Zee_NeWs_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0, group-title="News",Zee News 2
+http://185.246.209.251:9090/zeenews/index.m3u8?token=test
+#EXTINF:0, group-title="News",News24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:0, group-title="Entertainment",B4U Movies 
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+#EXTINF:0, group-title="Entertainment",MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:0, group-title="Entertainment",Zee Classic
+http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0, group-title="Entertainment",Sony MaX HD
+http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
+#EXTINF:0, group-title="Entertainment",Zoom
+http://185.246.209.251:9090/zoom/index.m3u8?token=test
+#EXTINF:0, group-title="Entertainment",zeetv HD
+http://185.246.209.251:9090/zeetv/index.m3u8?token=test
+#EXTINF:0, group-title="Entertainment",starworld HD
+http://185.246.209.251:9090/starworld/index.m3u8?token=test
+#EXTINF:0, group-title="Entertainment",zeebusiness
+http://185.246.209.251:9090/zeebusiness/index.m3u8?token=test
+#EXTINF:0, group-title="Entertainment",Zing
+http://185.246.209.251:9090/zing/index.m3u8?token=test
+#EXTINF:0, group-title="Entertainment",Colors
+http://185.246.209.251:9090/colors/index.m3u8?token=test
+#EXTINF:0, group-title="Entertainment",Star Plus
+http://137.59.155.253:8088/hls/Star_Plus.m3u8
+#EXTINF:0, group-title="Entertainment",Sony TV
+http://185.246.209.251:9090/sony/index.m3u8?token=test
+#EXTINF:0, group-title="Entertainment",SAB TV
+http://103.205.133.42:1935/local/sony_sab_720/chunklist.m3u8
+#EXTINF:0, group-title="Entertainment",Sony Pix
+http://185.246.209.251:9090/sonypix/index.m3u8?token=test
+#EXTINF:0, group-title="English",WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
+#EXTINF:0, group-title="Hindi",Discovery Science
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+#EXTINF:0, group-title="Hindi",Animal Planet Hindi
+https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
+#EXTINF:0, group-title="English",Nat Geo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:0, group-title="English",CBC
+https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+#EXTINF:0, group-title="News",CBC NEWS
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8

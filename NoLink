@@ -65,6 +65,8 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:0, group-title="News",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:0, group-title="News",India News
+https://streamidvo.multitvsolution.in/IndiaNewsPunjab-a/playlist.m3u8
 #EXTINF:0, group-title="News",Zee News
 http://216.144.250.174/Zee_NeWs_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="News",Zee News 2

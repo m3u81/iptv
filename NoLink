@@ -115,5 +115,5 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
 #EXTINF:0, group-title="News",CBC NEWS
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
-#EXTINF:0, group-title="News",CBC NEWS Network
+#EXTINF:0, group-title="English",CBC NEWS Network
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8

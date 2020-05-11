@@ -43,29 +43,29 @@ http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 #EXTINF:0, group-title="Punjabi",TV Punjab
 http://cdn.samtv.ca/tvpunjab/index.m3u8
-#EXTINF:0, group-title="Hindi",Times now
+#EXTINF:0, group-title="News",Times now
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:0, group-title="Hindi",Aaj Tak
+#EXTINF:0, group-title="News",Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:0, group-title="Hindi",NDTV 24X7
+#EXTINF:0, group-title="News",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:0, group-title="Hindi",CNBC 18
+#EXTINF:0, group-title="News",CNBC 18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:0, group-title="Hindi",CNBC Awaaz
+#EXTINF:0, group-title="News",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:0, group-title="Hindi",ABP News
+#EXTINF:0, group-title="News",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-#EXTINF:0, group-title="Hindi",DD News
+#EXTINF:0, group-title="News",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:0, group-title="Hindi",Zee News
+#EXTINF:0, group-title="News",Zee News
 http://216.144.250.174/Zee_NeWs_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0, group-title="Hindi",B4U Movies 
+#EXTINF:0, group-title="Entertainment",B4U Movies 
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:0, group-title="Hindi",MAHA MOVIE
+#EXTINF:0, group-title="Entertainment",MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:0, group-title="Hindi",Zee Classic
+#EXTINF:0, group-title="Entertainment",Zee Classic
 http://216.144.250.174/Zee_ClassIc_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0, group-title="Hindi",Sony MaX HD
+#EXTINF:0, group-title="Entertainment",Sony MaX HD
 http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
 #EXTINF:0, group-title="English",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
@@ -73,9 +73,9 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:0, group-title="Hindi",Animal Planet Hindi
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
-#EXTINF:0, group-title="Hindi",Nat Geo
+#EXTINF:0, group-title="English",Nat Geo
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #EXTINF:0, group-title="English",CBC
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
-#EXTINF:0, group-title="English",CBC NEWS
+#EXTINF:0, group-title="News",CBC NEWS
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8

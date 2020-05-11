@@ -94,7 +94,7 @@ http://185.246.209.251:9090/starplus/index.m3u8?token=test
 #EXTINF:0, group-title="Entertainment",Sony TV
 http://185.246.209.251:9090/sony/index.m3u8?token=test
 #EXTINF:0, group-title="Entertainment",SAB TV
-http://216.144.250.174:80/S0ny_Sab_HD/index.m3u8
+http://103.205.133.42:1935/local/sony_sab_720/chunklist.m3u8
 #EXTINF:0, group-title="Entertainment",Sony Pix
 http://185.246.209.251:9090/sonypix/index.m3u8?token=test
 #EXTINF:0, group-title="English",WWE Network

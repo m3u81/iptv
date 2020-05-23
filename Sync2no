@@ -1,0 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1,Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+
+#EXTINF:-1,5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+
+#EXTINF:-1,Amar Ujala 
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+
+#EXTINF:-1,BBC Toronto
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+
+#EXTINF:-1,Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
+#EXTINF:-1,Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+
+#EXTINF:-1,Fastway Ent.
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
+
+#EXTINF:-1,Fastway TV
+http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
+
+
+#EXTINF:0, group-title="News",CBC NEWS
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8

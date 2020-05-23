@@ -24,6 +24,3 @@ http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
 #EXTINF:-1,Fastway TV
 http://fastway.ddns.net:6421/fastway/live14/index.m3u8?token=fastwaytvstreams
 
-
-#EXTINF:0, group-title="News",CBC NEWS
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
